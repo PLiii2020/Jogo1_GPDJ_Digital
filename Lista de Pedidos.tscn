@@ -1,0 +1,3 @@
+[gd_scene format=2]
+
+[node name="Lista de Pedidos" type="Node2D"]
